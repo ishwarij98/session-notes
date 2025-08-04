@@ -4,10 +4,10 @@ import session from "express-session";
 import morgan from "morgan";
 import cors from "cors";
 
-import dbConnect from "./servers/utils/dbConnect.js";
-import publicRoutes from "./servers/controllers/public/index.js";
-import userRoutes from "./servers/controllers/users/index.js";
-import noteRoutes from "./servers/controllers/notes/index.js"
+import dbConnect from "./utils/dbConnect.js";
+import publicRoutes from "./controllers/public/index.js";
+import userRoutes from "./controllers/users/index.js";
+import noteRoutes from "./controllers/notes/index.js"
 
 dotenv.config();
 
