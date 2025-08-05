@@ -1,11 +1,11 @@
-# session-notes
+# ★✨ session-notes ✨
 A simple and secure Notes Management API built with **Node.js**, **Express**, and **MongoDB**, using **express-session** for authentication. Users can register, log in, create, update, delete, and view their notes — all session-based without JWT.
 
 📄 **Postman Docs:** [Click here](https://documenter.getpostman.com/view/44183242/2sB3BBoWGh)
 
 ---
 
-## 🚀 Features
+## ✨▶︎  Features
 
 - User registration & login  
 - Session-based authentication using cookies  
@@ -16,7 +16,7 @@ A simple and secure Notes Management API built with **Node.js**, **Express**, an
 
 ---
 
-## 🧱 Tech Stack
+## ✨▶︎  Tech Stack
 
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB (Mongoose)  
